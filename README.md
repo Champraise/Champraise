@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tochukwu Ofodum</h1>
 <h3 align="center">I am a passionate Machine Learning Enthusiastic learning at Udacity.</h3>
 
-- 🔭 I’m currently working on **Machine Learning with Python at Udacity.**
+- 🔭 Finished **AI Programming with Python @Udacity.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
