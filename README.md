@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tochukwu Ofodum</h1>
-<h3 align="center">I am a passionate Machine Learning Enthusiastic learning at Udacity.</h3>
+<h1 align='center'>About Me</h1>
+Hi, I'm <b>Tochukwu</b>, a <b>Machine Learning Engineer</b> interested in developing tools that help businesses meet their customer needs. I enjoy the process of deeply understanding the user through user data, identifying problems, and solving it utilizing artificial intelligence. My recent project was building an Image classifier application at Udacity's AI programming with Python Nanodegree modifying PyTorch machine learning models to classify spices of flowers. My goal is to build tools and features that help businesses understand their customers.
 
-- 🔭 Finished **AI Programming with Python @Udacity.**
+>From small things come great things
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tochukwu_ofodum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tochukwu_ofodum" height="30" width="40" /></a>
-<a href="https://instagram.com/@champraise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@champraise" height="30" width="40" /></a>
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
