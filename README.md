@@ -9,6 +9,8 @@ To enhance my skills and take my career to the next level, I am currently immers
 
 Below is my certification from AI programming with Python Nanodegree and Python Programming Foundations
 <img src="assets/cert_ai_with_py.png" alt="Certification AI with Python Nanodegree" width="512" height="369">
+<br>
+<br>
 <img src="assets/cert_py_foundations.png" alt="Certification Python Foundations from Udacity" width="512" height="369">
 
 >Be about that ACTION and Go Do It
