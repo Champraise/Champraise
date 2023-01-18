@@ -1,6 +1,3 @@
-<img src="assets/my_banner.png" alt="banner containing the words 'be about that action and go do it'">
-<br>
-<br>
 <h1 align='center'>About Me</h1>
 As a physics graduate, I have a strong inclination toward problem-solving which led me to pursue a career as a data scientist, who is passionate about creating AI tools for businesses. Recently, I completed a course on AI programming with Python from Udacity, during which I developed a command-line application that classifies flower species using images. This project helped me improve my programming skills in Python and familiarized me with libraries like Numpy, Pandas, and Matplotlib, and gained a deeper understanding of neural networks.
 <br>
