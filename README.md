@@ -11,20 +11,20 @@ From calculating quantum probabilities to decoding neural networks—I'm passion
 🧠 **A Quick Snapshot of Me**
 
 - 🎓 Physics graduate with a love for logic, puzzles, and code.
-- 🧑‍💻 Recently completed Udacity’s **AI Programming with Python** Nanodegree.
+- 🧑‍💻 Completed Udacity’s **AI Programming with Python** Nanodegree.
 - 🌸 Built a command-line flower classifier using PyTorch that taught me a ton about neural nets!
 - 📚 Currently diving deep into the **Google Data Analytics** program on Coursera.
 - 📈 Learning how to make data talk using **SQL**, **Python**, **Google Analytics**, and visualization tools.
-- 💬 Love sharing knowledge and documenting my progress in public.
+- 💬 Documenting my journey and building in public.
 
 ---
 
 📜 **Certifications**
 
 <p align="center">
-  <img src="assets/cert_ai_with_py.png" alt="AI Programming with Python Nanodegree" width="400" height="288">
-  <br><br>
-  <img src="assets/cert_py_foundations.png" alt="Python Programming Foundations" width="400" height="288">
+  <img src="assets/cert_ai_with_py.png" alt="AI Programming with Python Nanodegree" width="380" height="270">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/cert_py_foundations.png" alt="Python Programming Foundations" width="380" height="270">
 </p>
 
 ---
@@ -42,9 +42,9 @@ From calculating quantum probabilities to decoding neural networks—I'm passion
 💡 **What I'm Cooking in 2025**
 
 - 🔨 Building AI/data science tools in public
-- 🧪 Experimenting with side projects (think visualizations, analytics dashboards, ML models!)
-- 📦 Launching at least 1-2 GitHub projects by the end of the year
-- ✍️ Sharing learnings, wins, and fails openly
+- 🧪 Experimenting with side projects (visualizations, dashboards, ML models!)
+- 📦 Launching 1–2 projects by year-end
+- ✍️ Sharing learnings, wins, and challenges along the way
 
 ---
 
