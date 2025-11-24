@@ -1,30 +1,36 @@
 <h1 align="center">Hey there 👋, I'm Champraise!</h1>
-<p align="center">🤖 AI Engineer | 🧠 Machine Learning | ⚡ Problem-Solver</p>
+<p align="center">💡 Aspiring AI Engineer | 🧠 Machine Learning Learner | ⚡ Competitive Coder</p>
 
 ---
 
-🎯 **My Mission**  
-From calculating quantum probabilities to decoding neural networks—I'm passionate about turning complex problems into AI-powered solutions for real-world businesses.
+🚀 **My Current Mission (The Next 6 Months)**
+I'm dedicating this season to intensive **learning, hands-on practice, and competitive programming** to solidify my foundation in AI/ML. My goal is to rapidly expand my portfolio and readiness for entry-level/short-term roles.
 
 ---
 
 🧠 **A Quick Snapshot of Me**
 
-- 🎓 Physics graduate with a love for logic, puzzles, and code.
-- 🧑‍💻 Completed Udacity’s **AI Programming with Python** Nanodegree.
-- 🌸 Built a command-line flower classifier using PyTorch that taught me a ton about neural nets!
-- 📚 Currently diving deep into the **Google Data Analytics** program on Coursera.
-- 📈 Learning how to make data talk using **SQL**, **Python**, **Google Analytics**, and visualization tools.
-- 💬 Documenting my journey and building in public.
+* 🎓 Graduate with a focus on **logic, puzzles, and problem-solving**—the perfect fuel for a career in AI.
+* 🧑‍💻 Completed Udacity’s **AI Programming with Python** Nanodegree.
+* 🌸 Built a command-line flower classifier using PyTorch, which was a deep dive into neural networks!
+* 📚 Currently diving deep into the **Google Data Analytics** program on Coursera.
+* 📈 Actively learning how to make data talk using **SQL**, **Python**, **Google Analytics**, and visualization tools.
+* 🏆 **Focusing on competitive coding** (e.g., Kaggle, LeetCode) to sharpen algorithm and ML skills.
+* 💬 Documenting my journey and building in public.
+
+---
+
+💼 **Seeking Opportunities**
+I am actively looking for **short-term, contract, or entry-level roles** in AI/ML Engineering (e.g., data labeling, model deployment assistance, small project contribution) to gain real-world experience and build my professional portfolio. **Let's connect!**
 
 ---
 
 📜 **Certifications**
 
 <p align="center">
-  <img src="assets/cert_ai_with_py.png" alt="AI Programming with Python Nanodegree" width="380" height="270">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/cert_py_foundations.png" alt="Python Programming Foundations" width="380" height="270">
+  <img src="assets/cert_ai_with_py.png" alt="AI Programming with Python Nanodegree" width="380" height="270">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/cert_py_foundations.png" alt="Python Programming Foundations" width="380" height="270">
 </p>
 
 ---
@@ -32,25 +38,25 @@ From calculating quantum probabilities to decoding neural networks—I'm passion
 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=champraise&show_icons=true&theme=radical" alt="My GitHub stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=champraise&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=champraise&show_icons=true&theme=radical" alt="My GitHub stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=champraise&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
 
 💡 **What I'm Cooking in 2025**
 
-- 🔨 Building AI/data science tools in public
-- 🧪 Experimenting with side projects (visualizations, dashboards, ML models!)
-- 📦 Launching 1–2 projects by year-end
-- ✍️ Sharing learnings, wins, and challenges along the way
+* 🔨 Building AI/data science tools in public, focusing on practical implementation.
+* 🧪 **Competing consistently** in Kaggle and other data challenges.
+* 📦 Launching **1–2 portfolio-defining projects** by year-end.
+* ✍️ Sharing learnings, wins, and challenges along the way.
 
 ---
 
 📫 **Let’s Connect**
 
-If you're a fellow data geek, AI enthusiast, or just curious about what I'm building, let’s chat!  
+If you're a fellow data geek, AI enthusiast, or have a **short-term project** that needs an eager pair of hands, let’s chat!
 > *“Be about that ACTION and Go Do It”*
 
 ---
@@ -67,4 +73,4 @@ If you're a fellow data geek, AI enthusiast, or just curious about what I'm buil
 
 ---
 
-⚡ *Follow along as I document the journey—one repo at a time!*
+⚡ *Follow along as I document the journey—one repo and one competition at a time!*
