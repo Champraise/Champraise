@@ -20,8 +20,17 @@ I'm dedicating this season to intensive **learning, hands-on practice, and compe
 
 ---
 
-💼 **Seeking Opportunities**
-I am actively looking for **short-term, contract, or entry-level roles** in AI/ML Engineering (e.g., data labeling, model deployment assistance, small project contribution) to gain real-world experience and build my professional portfolio. **Let's connect!**
+💼 **Seeking Opportunities: Short-Term AI/ML Projects**
+
+I am actively looking for **contract, short-term, or portfolio-building roles** where I can apply my growing skills in Python, PyTorch, and data analysis.
+
+**My Ideal Short-Term Roles Include:**
+
+* **ML/AI Engineering:** Assisting with model training, testing, or basic deployment (e.g., using Flask/Streamlit).
+* **Data Analysis:** Data cleaning, manipulation, and visualization using Pandas, SQL, and Matplotlib.
+* **Data Preparation:** Annotation, labeling, and pipeline assistance.
+
+**If you have a 1–3 month project or a defined task that needs execution, let’s talk! I am eager to contribute, deliver results, and increase my professional portfolio.**
 
 ---
 
