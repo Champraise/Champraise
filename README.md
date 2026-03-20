@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Champraise!</h1>
-<p align="center">💡 Aspiring AI Engineer | 🧠 Machine Learning Learner | ⚡ Competitive Coder</p>
+<p align="center">💡 AI Engineer | 🧠 Machine Learning Learner | ⚡ Competitive Coder</p>
 
 ---
 
